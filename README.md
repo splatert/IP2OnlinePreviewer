@@ -6,3 +6,7 @@ Show previews of livestreams on IP2.online
 
 ## Installation
 Install with a userscript manager of your choice.
+
+
+## Usage
+Hover over a streamer for two seconds to display their stream.
